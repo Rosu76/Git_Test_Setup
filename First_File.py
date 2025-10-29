@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # This is a new file and out first commit
 
 
@@ -9,3 +10,6 @@ b = 4
 print(a+b)
 
 # My code is saving itself
+=======
+print("I love branching and merging")
+>>>>>>> branch_for_work
